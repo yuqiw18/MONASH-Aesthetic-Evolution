@@ -23,7 +23,7 @@ Default mRate value = 15
 
 ### Control
 | Operation | Key |
-| - | :-: |
+| :-: | :-: |
 | Select | **Enter**, when parent ID is given |
 | Mate | **M**, when two parents are selected |
 | Reset | **R**, which gives randomised result |
